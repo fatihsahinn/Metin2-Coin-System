@@ -52,7 +52,7 @@
 ### // For Redcoin, create a database called web_core to mysql and import the sql file in the mysql file.
 
 #### GM character
-#### /rdc_currency_degistir can change the current rate directly in the game as <rate value>.
+#### /rdc_kur_degistir <coure value> can change the current rate directly in the game as.
 #### The system only uses SQL when starting the game to remember the previous rate.
 
 #### I wrote the system specially for my M2Red server, with what dreams. As a matter of fact, he brought it to a place and then due to financial inadequacy. I decided not to use , it was a blessing to you.
