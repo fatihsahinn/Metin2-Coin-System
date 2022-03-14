@@ -1,0 +1,1 @@
+// Add file RedCoinManager.cpp

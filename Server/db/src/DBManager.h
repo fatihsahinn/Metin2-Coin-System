@@ -1,0 +1,15 @@
+// Find
+
+enum eSQL_SLOT
+{
+    SQL_PLAYER,
+    SQL_ACCOUNT,
+	SQL_COMMON,
+	SQL_HOTBACKUP,
+
+// Add Below
+
+#if defined(ENABLE_FATIH_SAHIN_REDCOIN_SYSTEM)
+	SQL_WEBCORE,
+#endif
+

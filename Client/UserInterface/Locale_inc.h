@@ -1,0 +1,2 @@
+// add
+#define ENABLE_FATIH_SAHIN_REDCOIN_SYSTEM
