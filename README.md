@@ -30,8 +30,7 @@
 </div>
 
 #### Bu ve paylaştığım sistemlere benzer özel hayal ettiğiniz sistemi kodlamamı istiyorsanız discord adresimden bana ulaşabilirsiniz.
-#### // Sistemde kendi tasarlamış olduğum gui mevcut tüm detaylı dosyaları ekledim ticaretten rdc alışverişi yapılabilir teslerime göre
-#### sorunsuzdur zaten kod okuma bilginiz varsa incelerseniz anlarsınız.
+#### // Sistemde kendi tasarlamış olduğum gui mevcut tüm detaylı dosyaları ekledim ticaretten rdc alışverişi yapılabilir testlerime göre sorunsuzdur zaten kod okuma bilginiz varsa incelerseniz anlarsınız.
 
 -----------------------
 
@@ -65,8 +64,7 @@
 </div>
 
 #### If you want me to encode the system you imagine, similar to this and the systems I share, you can contact me at my discord address.
-#### // I have added all the detailed files available in the gui that I have designed in the system, rdc can be exchanged from trade according to my tests
-#### is no problem, if you already know how to read code, you will understand if you examine it.
+#### // I have added all the detailed files available in the gui that I have designed in the system, rdc can be exchanged from trade according to my tests is no problem, if you already know how to read code, you will understand if you examine it.
 
 #### Thanks to the system, you can strengthen your trade by offering a more colorful environment to your players and paying them real money.
 
