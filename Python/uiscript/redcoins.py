@@ -50,7 +50,7 @@ window = {
 					"type" : "image",
 					"x" : 5,
 					"y" : 33,
-					"image" : "d:/ymir work/ibowork/redcoins.png",
+					"image" : "d:/ymir work/freiswork/redcoins.png",
 				},
 				
 				{ "name":"Bilgi", "type":"text", "x":314/2-154, "y":105, 
@@ -127,7 +127,7 @@ window = {
 					"type" : "image",
 					"x":314/2-65,
 					"y" : 110,
-					"image" : "d:/ymir work/ibowork/ok3.png",
+					"image" : "d:/ymir work/freiswork/ok3.png",
 				},
 				{ "name":"Bilgi5", "type":"text", "x":314/2-165+5, "y":180, 
 				"text" : "RDC TL Miktarý", 
@@ -186,7 +186,7 @@ window = {
 					"type" : "image",
 					"x":314/2+50,
 					"y" : 160,
-					"image" : "d:/ymir work/ibowork/ok3.png",
+					"image" : "d:/ymir work/freiswork/ok3.png",
 				},
 				{ "name":"Bilgi2", "type":"text", "x":314/2-154, "y":230, 
 				"text" : "RDC Yang Miktarý", 
@@ -219,7 +219,7 @@ window = {
 							"x":-22,
 							"y":0,
 
-							"image":"d:/ymir work/ibowork/tl.png",
+							"image":"d:/ymir work/freiswork/tl.png",
 						},
 
 						{
@@ -251,9 +251,9 @@ window = {
 					"text_height" : 6,
 					"color" : GOLD_COLOR,
 
-					"default_image" : "d:/ymir work/ibowork/button/xlarge1.png",
-					"over_image" : "d:/ymir work/ibowork/button/xlarge2.png",
-					"down_image" : "d:/ymir work/ibowork/button/xlarge3.png",
+					"default_image" : "d:/ymir work/freiswork/button/xlarge1.png",
+					"over_image" : "d:/ymir work/freiswork/button/xlarge2.png",
+					"down_image" : "d:/ymir work/freiswork/button/xlarge3.png",
 				},
 				{
 					"name" : "tl_cekim", "type" : "button",
@@ -261,9 +261,9 @@ window = {
 					"text_height" : 6,
 					"color" : GOLD_COLOR,
 
-					"default_image" : "d:/ymir work/ibowork/button/xlarge1.png",
-					"over_image" : "d:/ymir work/ibowork/button/xlarge2.png",
-					"down_image" : "d:/ymir work/ibowork/button/xlarge3.png",
+					"default_image" : "d:/ymir work/freiswork/button/xlarge1.png",
+					"over_image" : "d:/ymir work/freiswork/button/xlarge2.png",
+					"down_image" : "d:/ymir work/freiswork/button/xlarge3.png",
 				},
 			),
 		},
