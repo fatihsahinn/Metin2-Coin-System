@@ -4,7 +4,7 @@
  Source Server         : [DEV]fSahiN#9964
  Source Server Type    : MySQL
  Source Server Version : 50562
- Source Host           : 213.238.182.233:3306
+ Source Host           : xxxxxxx:3306
  Source Schema         : web_core
 
  Target Server Type    : MySQL
